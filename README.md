@@ -2,15 +2,11 @@
 
 **My skills:**
 * HTML, CSS, TailwindCSS
-* JavaScript, Node js, Express
+* JavaScript, TypeScript, Node js, Express
 * React, Next js
 * MySQL
 * Java
 * Agile, Figma, Jest
-
-**I'm Currently Learning:**
-* TypeScript
-* PostgreSQL
 
 ---
 
