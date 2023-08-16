@@ -3,13 +3,11 @@
 **My skills:**
 * HTML, CSS, TailwindCSS
 * JavaScript, TypeScript, Node js, Express
-* React, Next js
-* MySQL
+* React, Next js, React Native
+* MySQL, Firebase
 * Java
 * Agile, Figma, Jest
 
 ---
 
 [my site](https://jums.uk)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=jum-w&show_icons=true&theme=tokyonight)
